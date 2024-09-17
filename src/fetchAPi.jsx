@@ -12,7 +12,7 @@ const options = {
   headers: {
     accept: "application/json",
     Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxOGQ2ZDE0NmY2ODg3YzE2NzgzYjllNTRjNTlhNDI2NyIsIm5iZiI6MTcyMzczNjEwNS43MTA4NTcsInN1YiI6IjY2YmUxZDliNDZlMTk1NTlmOTgyOGQ4MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.71EI3TJpafnszUo1y8n_5vNEaVsLm-HNv879Gjnj9gY",
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlOTk1ZTMwZjE3ODE1OWU0ODMyMjI0NzVlNjUxYTUzNyIsIm5iZiI6MTcyNjU3NTMxMy44MTUzNzUsInN1YiI6IjY2ZTk2ZjhlODJmZjg3M2Y3ZDFlYjI0NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.UirDoa5dO2j0XJvLP01s6kD2Z0wiy6EFBY3TFjqAouA",
   },
 };
 
